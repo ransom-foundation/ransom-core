@@ -1,4 +1,4 @@
-# RANSOM
+# ransom-core
 ### Recognizing Affect through Narrative, Semantics, and Observable Markers
  
 *An open foundation for emotional recognition in artificial intelligence systems.*
